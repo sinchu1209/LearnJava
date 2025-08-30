@@ -1,5 +1,5 @@
 public class loops {
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
         //loops = while, do while and for loop
         int i=0;
         while(i<=5){

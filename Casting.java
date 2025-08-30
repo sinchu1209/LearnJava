@@ -1,5 +1,5 @@
 public class Casting {
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
         
         float f = 5.6f;
         int x = (int)f; // it gives f in int format

@@ -12,7 +12,7 @@ class Calci {
 
 public class Creatingobj {  // public class should always be same as file name
 
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
         int num1 = 5;
         int num2 = 10;
 

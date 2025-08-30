@@ -1,7 +1,7 @@
 
 public class Array {
 
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
 
         int num[] = {1, 2, 3};
         System.out.println(num[1]); //2

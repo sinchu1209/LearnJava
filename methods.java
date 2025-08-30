@@ -5,7 +5,7 @@ class Computer {
         System.out.println("Playing music");
     }
 
-    public Stringex getAPen(int cost) {
+    public Strings getAPen(int cost) {
         if (cost >= 10) {
             return "Pen";
         }
@@ -15,10 +15,10 @@ class Computer {
 
 public class methods {
 
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
         Computer comp = new Computer();
         comp.PlayMusic();
-        Stringex str = comp.getAPen(3);
+        Strings str = comp.getAPen(3);
         System.out.println(str);
     }
 }

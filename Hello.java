@@ -1,5 +1,5 @@
 class Hello{
-    public static void main(Stringex a[]) {
+    public static void main(Strings a[]) {
         System.out.println("Hello World");
     }
 }

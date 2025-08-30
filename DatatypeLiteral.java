@@ -1,5 +1,5 @@
 public class DatatypeLiteral {
-        public static void main(Stringex a[]) {
+        public static void main(Strings a[]) {
             // These are the different datatypes
             int num1= 25;
             short sh = 32676;

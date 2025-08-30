@@ -2,14 +2,14 @@
 class Students {
 
     int rollno;
-    Stringex name;
+    Strings name;
     int marks;
 
 }
 
 public class Arrayofobjects {
 
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
         Students s1 = new Students();
         s1.rollno = 12;
         s1.name = "spoorthi";

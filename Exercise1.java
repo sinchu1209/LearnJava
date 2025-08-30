@@ -1,5 +1,5 @@
 public class Exercise1 {
-    public static void main(Stringex[] args) {
+    public static void main(Strings[] args) {
         // TODO: Print numbers 1 to 5 using for loop
         for(int i=1;i<=1;i++) {
             System.out.println("For Loop: "+i+" "+(i+1)+" "+(i+2)+" "+(i+3)+" "+(i+4));

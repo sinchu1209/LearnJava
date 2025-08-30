@@ -1,5 +1,5 @@
 class Operators {
-   public static void main(Stringex a[])
+   public static void main(Strings a[])
    {
     int num1 = 8;
     int num2 = 10;
